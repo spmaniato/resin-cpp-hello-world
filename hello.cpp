@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <iostream>
 
-int main (int argc, char **argv) 
+int main (int argc, char **argv)
 {
-	printf("Hello, world!\n");
-	return 0;
+    std::cout << "Hello, Spyros!" << std::endl;
+    return 0;
 }
